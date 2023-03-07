@@ -30,6 +30,11 @@ body {
   overflow-x: hidden;
 }
 
+.log{
+  font-size: 30px;
+}
+
+
 h1,
 h2,
 h3,
@@ -128,10 +133,10 @@ Header Section Start
   /* background-color: #e7f5ff; */
 }
 
-.header .logo {
+/* .header .logo { */
   /* width: 15%; */
-  height: 3rem;
-}
+  /* height: 3rem; */
+/* } */
 
 .navbar-lists {
   display: flex;
@@ -899,10 +904,10 @@ Media Queries Section
     position: relative;
   }
 
-  .header .logo {
+  /* .header .logo {
     width: 40%;
-    /* height: 3.4rem; */
-  }
+    /* height: 3.4rem; 
+  } */
 
   .navbar {
     width: 100%;
@@ -1039,9 +1044,9 @@ Media Queries Section
     padding: 0 3.2rem;
   }
 
-  .header .logo {
+  /* .header .logo {
     width: 60%;
-  }
+  } */
 
   /* secion .bio-data */
 
